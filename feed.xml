@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Name</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://blog.url.com/</id>
+  <link href="http://blog.url.com/"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2016-07-31T13:06:42+00:00</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>画像はどうなる？</title>
+    <link rel="alternate" href="http://blog.url.com/2016/07/31/396.html"/>
+    <id>http://blog.url.com/2016/07/31/396.html</id>
+    <published>2016-07-31T13:06:42+00:00</published>
+    <updated>2016-08-01T12:03:24+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h1 id="section"&gt;画像の&lt;/h1&gt;
+&lt;p&gt;テスト&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://img.esa.io/uploads/production/attachments/1679/2016/07/31/4429/53852990-35e2-4d37-b58a-2d33addf0865.png" alt="nownabe-64x64.png (4.9 kB)" /&gt;&lt;/p&gt;
+
+&lt;p&gt;ほげほげほげ:yum:ほげほげほげほげほげ&lt;/p&gt;
+
+&lt;iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;amp;bc1=000000&amp;amp;IS2=1&amp;amp;bg1=FFFFFF&amp;amp;fc1=000000&amp;amp;lc1=0000FF&amp;amp;t=sunbow-22&amp;amp;o=9&amp;amp;p=8&amp;amp;l=as1&amp;amp;m=amazon&amp;amp;f=ifr&amp;amp;ref=qf_sp_asin_til&amp;amp;asins=4274067750" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"&gt;&lt;/iframe&gt;
+
+</content>
+  </entry>
+  <entry>
+    <title>エアコン</title>
+    <link rel="alternate" href="http://blog.url.com/2016/07/27/391.html"/>
+    <id>http://blog.url.com/2016/07/27/391.html</id>
+    <published>2016-07-27T16:24:11+00:00</published>
+    <updated>2016-08-01T12:03:24+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;ほしい…あつい…&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>みにりゅう</title>
+    <link rel="alternate" href="http://blog.url.com/2016/07/27/390.html"/>
+    <id>http://blog.url.com/2016/07/27/390.html</id>
+    <published>2016-07-27T15:56:48+00:00</published>
+    <updated>2016-08-01T12:03:24+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;ほしい&lt;/p&gt;
+
+&lt;p&gt;けど世田谷公園には行きたくない&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>はじめてのblog2</title>
+    <link rel="alternate" href="http://blog.url.com/2016/07/27/385.html"/>
+    <id>http://blog.url.com/2016/07/27/385.html</id>
+    <published>2016-07-27T13:16:25+00:00</published>
+    <updated>2016-08-01T12:03:24+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;ほげえええええ&lt;/p&gt;
+</content>
+  </entry>
+</feed>
